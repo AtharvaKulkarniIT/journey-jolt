@@ -58,7 +58,7 @@ Paste your credentials in the `.env` file like this:
 ### 🧪 Run Locally
 
 ```bash
-git clone https://github.com/atharvakulkarniITs/journey-jolt.git
+git clone https://github.com/AtharvaKulkarniIT/journey-jolt.git
 cd journey-jolt
 npm install
 npm run dev
